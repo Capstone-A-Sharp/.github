@@ -5,6 +5,7 @@ Capstone Design 2025 Fall to 2025 Spring
 Department of Embedded System Engineering
 
 Incheon National University
+<img width="635" height="888" alt="image" src="https://github.com/user-attachments/assets/32d766ce-edb8-4e44-ba83-cf000eb8d854" />
 
 # Intention-Aware Mobility Device Using Fixed-Handle Pressure Sensor Input
 
