@@ -6,6 +6,9 @@ Department of Embedded System Engineering
 
 Incheon National University
 <img width="635" height="888" alt="image" src="https://github.com/user-attachments/assets/32d766ce-edb8-4e44-ba83-cf000eb8d854" />
+<img width="3400" height="4156" alt="2025_캡스턴디자인_판넬_A#" src="https://github.com/user-attachments/assets/73020499-fa1f-4af8-b5c2-a2608201c97b" />
+<img width="2480" height="3508" alt="마이크로컨트롤러 GPIO의 효율적 사용을 위한 클럭 시그널 기반 압력센서 어레이 …_1" src="https://github.com/user-attachments/assets/595ccaad-589d-42cc-a4f6-42f4cc0c0002" />
+
 
 # Intention-Aware Mobility Device Using Fixed-Handle Pressure Sensor Input
 
